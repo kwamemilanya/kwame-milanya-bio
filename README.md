@@ -14,7 +14,7 @@ No known bugs.
 *CSS
 *Bootstrap
 ## Support and contact details
-Incase of problems,contact kwamemille@gmail.com
+Incase of problems,contact kwamemille@gmail.com or 
 ### MIT License
 *
 Permission is hereby granted, free of charge, to any person obtaining a copy
