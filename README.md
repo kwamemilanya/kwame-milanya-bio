@@ -12,7 +12,7 @@ No bugs yet.
 *CSS
 *Bootstrap
 ## Support and contact details
-Incase of problems,contact kwamemill@gmail.com
+Incase of problems,contact kwamemille@gmail.com
 ### MIT License
 *
 Permission is hereby granted, free of charge, to any person obtaining a copy
