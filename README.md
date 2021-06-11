@@ -8,7 +8,7 @@ See the project here { https://kwamemilanya.github.io/kwame-milanya-bio/ }
 * Use URL
 * Github 
 ## Known Bugs
-No bugs yet.
+No known bugs.
 ## Technologies Used
 *HTML
 *CSS
