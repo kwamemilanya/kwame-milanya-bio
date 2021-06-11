@@ -3,9 +3,11 @@
 #### By **Kwame Milanya**
 ## Description
 This is explains the details of the Webpage,describing the personality and interests of Kwame Milanya.
-See the project here {https://kwamemilanya.github.io/kwame-milanya-bio/ }
+See the project here { https://kwamemilanya.github.io/kwame-milanya-bio/ }
 ## Set Up
 * Use URL
+* Github 
+* 
 ## Known Bugs
 No bugs yet.
 ## Technologies Used
